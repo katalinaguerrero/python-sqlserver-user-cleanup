@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+venv/
+env/
+
+# Data & secrets
+*.env
+.env
+data/*.db
+data/valid_users.csv
+
+# System
+.DS_Store
+Thumbs.db
