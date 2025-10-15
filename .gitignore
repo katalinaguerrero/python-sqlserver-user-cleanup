@@ -11,7 +11,8 @@ env/
 *.env
 .env
 data/*.db
-data/valid_users.csv
+data/*.csv
+output/*.sql
 
 # System
 .DS_Store
